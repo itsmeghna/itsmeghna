@@ -6,7 +6,7 @@
 - 🌱 I’m currently working as a **Software Engineer**
 - 💬 Ask me about **Java, JavaScript, HTML, CSS, MySQL, Node, React**
 
-- 📄 Know about my experiences **[My Resume](https://drive.google.com/file/d/1WAtTpCz929g-UXCkSvlbqYf5lQ3qncMx/view?usp=drivesdk)**
+- 📄 Know about my experiences **[My Resume][(https://drive.google.com/file/d/1WAtTpCz929g-UXCkSvlbqYf5lQ3qncMx/view?usp=drivesdk)](https://drive.google.com/file/d/1-5My7aux9THgcXPgoTj0F8f-1c2YdDLk/view?usp=sharing)**
 
 - 📫 Gmail **meghnas2198@gmail.com**
 - 📫 LinkedIn **[Meghna Sarkar](www.linkedin.com/in/meghnas21)**
